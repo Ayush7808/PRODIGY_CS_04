@@ -1,1 +1,1 @@
-# PRODIGY_CS_04
+It stores all the keystrock/keytyped in new file
